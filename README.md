@@ -26,7 +26,7 @@ Este projeto é um **Autenticador de Boletos** desenvolvido como parte do **Lab0
 
 | Leitura do Boleto | Validação | Resposta da API |
 |:-----------------:|:---------:|:---------------:|
-| ![Prova 1](imgs/Proof1.png) | ![Prova 2](imgs/Proof2.png) | ![Prova 3](imgs/Proof3.png) |
+| ![Prova 1](imgs/proof1.png) | ![Prova 2](imgs/proof2.png) | ![Prova 3](imgs/proof3.png) |
 
 ---
 
