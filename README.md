@@ -24,11 +24,15 @@ Este projeto é um **Autenticador de Boletos** desenvolvido como parte do **Lab0
 
 ## 📸 Comprovantes de funcionamento
 
-| Leitura do Boleto | Validação | Resposta da API |
-|:-----------------:|:---------:|:---------------:|
-| ![Prova 1](imgs/proof1.png) | ![Prova 2](imgs/proof2.png) | ![Prova 3](imgs/proof3.png) |
-
----
+| Leitura do Boleto |
+|:-----------------:|
+| ![Prova 1](imgs/proof1.png) |
+| Validação         |
+|:-----------------:|
+| ![Prova 2](imgs/proof2.png) |
+| Resposta da API |
+|:-----------------:|
+| ![Prova 3](imgs/proof3.png) |
 
 ## 🧪 Como testar localmente
 
