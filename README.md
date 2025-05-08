@@ -28,10 +28,8 @@ Este projeto é um **Autenticador de Boletos** desenvolvido como parte do **Lab0
 |:-----------------:|
 | ![Prova 1](imgs/proof1.png) |
 | Validação         |
-|:-----------------:|
 | ![Prova 2](imgs/proof2.png) |
 | Resposta da API |
-|:-----------------:|
 | ![Prova 3](imgs/proof3.png) |
 
 ## 🧪 Como testar localmente
